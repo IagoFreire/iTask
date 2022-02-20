@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ik.imagekit.io/zzhhu7ybcwb/imagem_2021-10-17_185539_tWhJ8gfku.png"/>
+  <img src="https://ik.imagekit.io/zzhhu7ybcwb/print_r8CAUrsNqU.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645389452058"/>
 </p>
 
 ## Funcionalidades
@@ -27,7 +27,7 @@ Para mover uma tarefa de status clique na tarefa que deseja altarar o status na 
 ```bash
 
     # Clone o repositório
-    $ git clone https://github.com/IagoFreire/Frontend-TTP.git
+    $ git clone https://github.com/IagoFreire/iTask
 
     # Entre no diretório
     $ cd iTask
